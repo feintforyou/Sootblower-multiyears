@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name mainboard_distributorV2-rescue)(type Legacy)(uri ${KIPRJMOD}/mainboard_distributorV2-rescue.lib)(options "")(descr ""))
+  (lib (name distributor-rescue)(type Legacy)(uri ${KIPRJMOD}/distributor-rescue.lib)(options "")(descr ""))
+)
